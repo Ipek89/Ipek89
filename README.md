@@ -14,7 +14,7 @@
 
 - 💬 Ask me about AWS Services, Databases, Web Hosting & Routing, Python, Linux.
 
-- 📫 How to reach me ipekgokceig@gmailcom
+- 📫 How to reach me ipekgokceig@gmail.com
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ipek-gokce/](https://www.linkedin.com/in/ipek-gokce/)
 
