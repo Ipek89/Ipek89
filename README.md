@@ -2,15 +2,16 @@
 <h3 align="center">A passionate CloudRat</h3>
 
 <h3 align="left">👨🏻‍💻 &nbsp;About Me</h3>
-- 🔭 I’m currently studying at Clarusway
+- 🔭 I’m currently working at NioyaTech
 
-- 🌱 I’m currently learning AWS / DevOps
+- 🌱 I’m continuously learning and expanding my skills in AWS, Kubernetes, Docker, and Terraform.
 
-- 👯 I’m looking to collaborate on CI/CD
+- 👯 I’m passionate about collaborating on projects related to CI/CD pipelines and system automation.
 
-- 🤝 I’m looking for help with Terraform / Kubernetes
 
-- 👨‍💻 All of my projects are available at [www.dripek.net](www.dripek.net)
+- 🤝  I’m open to connecting with others for knowledge exchange and support with Terraform and Kubernetes.
+
+- 👨‍💻 All of my projects are available at [www.ipekinvest.net](www.ipekinvest.net)
 
 - 💬 Ask me about AWS Services, Databases, Web Hosting & Routing, Python, Linux.
 
